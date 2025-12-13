@@ -16,6 +16,8 @@ PyQt5 tabanlı modern ve şık bir güç menüsü arayüzü.
 
 Kapatma, yeniden başlatma, oturumu kapatma ve kilitleme seçenekleri.
 
+Her işlem için özel ikon seçme veya varsayılana dönme desteği.
+
 Tamamen özelleştirilmiş, frameless ve yarı saydam pencere tasarımı.
 
 Büyük ikonlu güç butonları ve animasyonlu hover efektleri.
@@ -30,7 +32,6 @@ Geri sayım rengi seçilebilir (Neon renk seti).
 
 Geri sayım animasyonu seçilebilir (Glow, Pulse, Zoom, ColorShift).
 
-Her işlem için özel ikon seçme veya varsayılana dönme desteği.
 
 Kullanıcı ayarlarını ~/.config/power-menu.conf altında saklama.
 
