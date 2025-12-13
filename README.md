@@ -1,11 +1,12 @@
 # Power Menu
 
 Bu projeye ait ekran görüntüleri:
-![Uygulamamenu] !(uygulamamenu.png)
-![Iconsecim](iconsecim.png)![Ayarmenu](ayarmenu.png)
-![Sayac](sayac.png) ![Sayac2](sayac2.png) ![Sayac3](sayac3.png)
 
 
+![Ayarmenu](ayarmenu.png)
+![Sayac2](sayac2.png)
+![Uygulamamenu](uygulamamenu.png)
+![Iconsecim](iconsecim.png)
 
 Linux masaüstü ortamları için geliştirilmiş basit ve hızlı bir güç yönetimi aracıdır. Uygulama; sistemi kapatma, yeniden başlatma, oturum kilitleme, oturumu kapatma gibi temel güç seçeneklerini tek bir pencerede toplar.
 
