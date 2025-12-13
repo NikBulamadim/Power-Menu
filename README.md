@@ -3,7 +3,7 @@
 Bu projeye ait ekran görüntüleri:
 
 ![Ayarmenu](ayarmenu.png)
-![Sayac](sayac.png)
+![Sayac](sayac.png)![Sayac2](sayac2.png)![Sayac3](sayac3.png)
 ![Uygulamamenu](uygulamamenu.png)
 ![Iconsecim](iconsecim.png)
 
