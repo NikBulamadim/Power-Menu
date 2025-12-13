@@ -1,9 +1,9 @@
 # Power Menu
 
 Bu projeye ait ekran görüntüleri:
-![Uygulamamenu](uygulamamenu.png)
+![Uygulamamenu] (uygulamamenu.png)
 ![Iconsecim](iconsecim.png)![Ayarmenu](ayarmenu.png)
-![Sayac](sayac.png)![Sayac2](sayac2.png)![Sayac3](sayac3.png)
+![Sayac](sayac.png) ![Sayac2](sayac2.png) ![Sayac3](sayac3.png)
 
 
 
