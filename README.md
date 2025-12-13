@@ -2,11 +2,11 @@
 
 Bu projeye ait ekran görüntüleri:
 
-
-![Ayarmenu](ayarmenu.png)
-![Sayac2](sayac2.png)
 ![Uygulamamenu](uygulamamenu.png)
 ![Iconsecim](iconsecim.png)
+![Ayarmenu](ayarmenu.png)
+![Sayac2](sayac2.png)
+
 
 Linux masaüstü ortamları için geliştirilmiş basit ve hızlı bir güç yönetimi aracıdır. Uygulama; sistemi kapatma, yeniden başlatma, oturum kilitleme, oturumu kapatma gibi temel güç seçeneklerini tek bir pencerede toplar.
 
