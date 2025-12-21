@@ -8,7 +8,7 @@ Bu projeye ait ekran görüntüleri:
 ![Sayac2](sayac2.png)
 
 
-Linux masaüstü ortamları için geliştirilmiş basit ve hızlı bir güç yönetimi aracıdır. Uygulama; sistemi kapatma, yeniden başlatma, oturum kilitleme, oturumu kapatma gibi temel güç seçeneklerini tek bir pencerede toplar.
+Pardus Gnome için geliştirilmiş güç yönetimi aracıdır. Uygulama; sistemi kapatma, yeniden başlatma, oturum kilitleme, oturumu kapatma gibi temel güç seçeneklerini tek bir pencerede toplar.
 
 Uygulama ÖZellikleri 
 
