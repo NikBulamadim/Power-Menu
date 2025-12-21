@@ -1,4 +1,4 @@
-# Power Menu
+# Gnome Hızlı Güç Menüsü
 
 Bu projeye ait ekran görüntüleri:
 
