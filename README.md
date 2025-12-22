@@ -10,6 +10,21 @@ Bu projeye ait ekran görüntüleri:
 
 Pardus Gnome için geliştirilmiş güç yönetimi aracıdır. Uygulama; sistemi kapatma, yeniden başlatma, oturum kilitleme, oturumu kapatma gibi temel güç seçeneklerini tek bir pencerede toplar.
 
+
+
+                                               ### **Uygulamanın Test Edildiği Ortam** 
+       **Pardus Gnome(Wayland ve x11)**   Sorunsuz Çalışıyor
+    **Pardus   KDE Masaüstü Ortamı**
+              Pardus  KDE (sddm)  ------- Sorunsuz   Çalışıyor    Pardus KDE (gdm3)  ---------  Sorunsuz Çalışıyor
+              Pardus Gnome (sddm) ----  Sorunsuz Çalışıyor      Pardus Gnome (gdm3)-------  Sorunsuz Çalışıyor
+    **Pardus Cinnamon Masaüstü Ortamı** ----- Sorunsuz Çalışıyor 
+KDE bu sürümde denemiştir
+KDE Plasma sürümü: 6.3.6
+KDE Frameworks sürümü: 6.13.0
+Qt sürümü: 6.8.2
+
+
+
 Uygulama ÖZellikleri 
 
 PyQt5 tabanlı modern ve şık bir güç menüsü arayüzü.
