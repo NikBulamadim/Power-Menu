@@ -23,6 +23,10 @@ KDE Plasma sürümü: 6.3.6
 KDE Frameworks sürümü: 6.13.0
 Qt sürümü: 6.8.2
 
+### Uygulamanın istediği bağımlılıklar Python 3- PyQt5
+
+Bağımlılık Kurulumu : (Terminale yazılacak) sudo apt install python3-pyqt5 -y
+
 
 
 Uygulama ÖZellikleri 
