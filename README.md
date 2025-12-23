@@ -18,9 +18,13 @@ Pardus Gnome için geliştirilmiş güç yönetimi aracıdır. Uygulama; sistemi
               Pardus  KDE (sddm)  ------- Sorunsuz   Çalışıyor    Pardus KDE (gdm3)  ---------  Sorunsuz Çalışıyor
               Pardus Gnome (sddm) ----  Sorunsuz Çalışıyor      Pardus Gnome (gdm3)-------  Sorunsuz Çalışıyor
     **Pardus Cinnamon Masaüstü Ortamı** ----- Sorunsuz Çalışıyor 
+
 KDE bu sürümde denemiştir
+
 KDE Plasma sürümü: 6.3.6
+
 KDE Frameworks sürümü: 6.13.0
+
 Qt sürümü: 6.8.2
 
 ### Uygulamanın istediği bağımlılıklar Python 3- PyQt5
