@@ -2,6 +2,8 @@
 
 Bu projeye ait ekran görüntüleri:
 
+![resim1](1.png)
+![resim2](2.png)
 ![Uygulamamenu](uygulamamenu.png)
 ![Iconsecim](iconsecim.png)
 ![Ayarmenu](ayarmenu.png)
