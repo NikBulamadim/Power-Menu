@@ -10,7 +10,7 @@ Bu projeye ait ekran görüntüleri:
 ![Sayac2](sayac2.png)
 
 
-Pardus Gnome için geliştirilmiş güç yönetimi aracıdır. Uygulama; sistemi kapatma, yeniden başlatma, oturum kilitleme, oturumu kapatma gibi temel güç seçeneklerini tek bir pencerede toplar.
+Pardus Gnome 25 için geliştirilmiş güç yönetimi aracıdır. Uygulama; sistemi kapatma, yeniden başlatma, oturum kilitleme, oturumu kapatma gibi temel güç seçeneklerini tek bir pencerede toplar.
 
 
 
