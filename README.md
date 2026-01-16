@@ -31,9 +31,28 @@ Qt sürümü: 6.8.2
 
 ### Uygulamanın istediği bağımlılıklar Python 3- PyQt5
 
-Bağımlılık Kurulumu : (Terminale yazılacak) sudo apt install python3-pyqt5 -y
+Bağımlılık Kurulumu : (Terminale yazılacak) sudo apt install python3-pyqt5 -y   
 
 
+------------------------------------------------------------------------------------------------------------------------------
+
+Kurulum
+
+oturum-paket.deb paketini çift tıklayıp kurulum yapabilirsiniz .
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Terminalden Kurulum .
+
+oturum-paket.deb paketi Masaüstünüzde olsun .
+
+oturum-paket.deb paketini Masaüstü ne koyun
+
+cd ~/Masaüstü
+
+sudo dpkg -i oturum-paket.deb
+
+------------------------------------------------------------------------------------------------------------------------------
 
 Uygulama ÖZellikleri 
 
