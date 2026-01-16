@@ -46,8 +46,6 @@ Terminalden Kurulum .
 
 oturum-paket.deb paketi Masaüstünüzde olsun .
 
-oturum-paket.deb paketini Masaüstü ne koyun
-
 cd ~/Masaüstü
 
 sudo dpkg -i oturum-paket.deb
