@@ -15,10 +15,10 @@ Pardus Gnome için geliştirilmiş güç yönetimi aracıdır. Uygulama; sistemi
 
 
                                                ### **Uygulamanın Test Edildiği Ortam** 
-       **Pardus Gnome(Wayland ve x11)**   Sorunsuz Çalışıyor
-    **Pardus   KDE Masaüstü Ortamı**
-              Pardus  KDE (sddm)  ------- Sorunsuz   Çalışıyor    Pardus KDE (gdm3)  ---------  Sorunsuz Çalışıyor
-              Pardus Gnome (sddm) ----  Sorunsuz Çalışıyor      Pardus Gnome (gdm3)-------  Sorunsuz Çalışıyor
+       **Pardus Gnome 25 (Wayland ve x11)**   Sorunsuz Çalışıyor
+    **Pardus 25  KDE Masaüstü Ortamı**
+              Pardus 25  KDE (sddm)  ------- Sorunsuz   Çalışıyor    Pardus 25 KDE (gdm3)  ---------  Sorunsuz Çalışıyor
+              Pardus 25 Gnome (sddm) ----  Sorunsuz Çalışıyor      Pardus 25 Gnome (gdm3)-------  Sorunsuz Çalışıyor
     **Pardus Cinnamon Masaüstü Ortamı** ----- Sorunsuz Çalışıyor 
 
 KDE bu sürümde denemiştir
